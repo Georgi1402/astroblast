@@ -1,0 +1,36 @@
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.exe
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.deps.json
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.runtimeconfig.json
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.dll
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.pdb
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.Form1.resources
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.Properties.Resources.resources
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.csproj.GenerateResource.cache
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.AssemblyInfoInputs.cache
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.AssemblyInfo.cs
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.csproj.CoreCompileInputs.cache
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.dll
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\refint\astroblast.dll
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.pdb
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.genruntimeconfig.cache
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\ref\astroblast.dll
+C:\Facultate\An III\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.Form2.resources
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.exe
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.deps.json
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.runtimeconfig.json
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.dll
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\bin\Debug\net6.0-windows\astroblast.pdb
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.Form1.resources
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.Form2.resources
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.Properties.Resources.resources
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.csproj.GenerateResource.cache
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.AssemblyInfoInputs.cache
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.AssemblyInfo.cs
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.csproj.CoreCompileInputs.cache
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.dll
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\refint\astroblast.dll
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.pdb
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\astroblast.genruntimeconfig.cache
+C:\Facultate\An III\SEM I\Medii vizuale\astroblast\astroblast\obj\Debug\net6.0-windows\ref\astroblast.dll
